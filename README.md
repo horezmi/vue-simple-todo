@@ -1,4 +1,4 @@
-# vue-00-crush
+# vue-simple-todo
 
 ## Project setup
 ```
