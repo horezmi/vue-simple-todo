@@ -2,7 +2,7 @@
   <div>
     <h2>Todos Page</h2> 
     <p>Home in next link</p>
-    <router-link to="/" class="home-link">Todos</router-link>
+    <router-link to="/" class="home-link">Home</router-link>
     <hr>
     <addTodo 
       @add-todo="addTodo"
