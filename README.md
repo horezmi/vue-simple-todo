@@ -1,5 +1,7 @@
 # vue-simple-todo
 
+[View Demo](http://first-writing.surge.sh)
+
 ## Project setup
 ```
 npm install
